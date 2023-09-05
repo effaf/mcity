@@ -1,5 +1,5 @@
 # Webapp for a Soccer Club
-A website to display information for an English soccer club - Manchester City. This was a side project I undertook to boost my React skills. 
+This website is for showcasing information related to Manchester City, an English soccer club.
 
 Live demo - https://mcity-d8d2d.web.app/ (hosted on Firebase)
 
