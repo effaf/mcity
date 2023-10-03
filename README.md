@@ -1,16 +1,22 @@
-# Webapp for a Soccer Club
-This website is for showcasing information related to Manchester City, an English soccer club.
+# Manchester City Soccer Club Web Application
 
-Live demo - https://mcity-d8d2d.web.app/ (hosted on Firebase)
+Welcome to the Manchester City Soccer Club web application! This website is designed to showcase information and updates related to Manchester City.
 
-## Project Specs -
-- Admin authentication to sign in
-- Only Admin has the ability to add/ Edit players
-- Only Admin has the ability to add / Edit matches
-- Animations/transitions for enhanced user experience
-- Data stored on Firebase
-- Website hosted on Firebase
-- HOC implementation
+🚀 **Live Demo**: [Explore the live demo](https://mcity-d8d2d.web.app/) (Hosted on Firebase)
+
+## Key Features
+
+- **Admin Authentication**: Securely sign in as an admin to access additional features.
+  
+- **Admin Privileges**: Admins have the exclusive ability to add and edit player profiles as well as match details.
+
+- **Enhanced User Experience**: The website incorporates smooth animations and transitions to provide an enjoyable browsing experience for users.
+
+- **Data Management**: All data, including player profiles and match information, is stored on Firebase for efficient data management.
+
+- **Web Hosting**: The website is hosted on Firebase, ensuring reliability and scalability.
+
+- **Higher-Order Components (HOC)**: Implementation of Higher-Order Components to enhance code modularity and reusability.
   
 ## React Libraries
   - Material UI
@@ -19,8 +25,11 @@ Live demo - https://mcity-d8d2d.web.app/ (hosted on Firebase)
   - Formik and Yup
   - React toastify
 
-## Project set up 
-- Navigate to the root directory inside your command line and execute **npm install**
-- Execute **npm start** 
+## Installation
+- Clone this repository using git clone ```https://github.com/<username>/<repository>.git```
+- Navigate to the project directory using ```cd <repository>```
+- Install the necessary dependencies using ```npm install```
+- Start the development server using ```npm start```
+- Open the application in your browser at ```http://localhost:3000```
 
 
